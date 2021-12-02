@@ -1,2 +1,0 @@
-this is the first. I am going to create a starting file and then make first file.
-it made on local pc and then is uploaded on my github.
